@@ -17,6 +17,10 @@ System.out.println("software");
 		System.out.println("windows 10");
 
 	}
+	private void ram() {
+		System.out.println("4gb ram");
+
+	}
 	
 public static void main(String[] args) {
 	
@@ -25,6 +29,7 @@ public static void main(String[] args) {
 	result.hardwareResources();
 	result.softwareResources();
 	result.softwareversion();
+	result.ram();
 
 }
 	
