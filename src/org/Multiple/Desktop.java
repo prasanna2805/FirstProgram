@@ -19,6 +19,7 @@ System.out.println("software");
 	}
 	private void ram() {
 		System.out.println("4gb ram");
+		System.out.println("learn software");
 
 	}
 	
