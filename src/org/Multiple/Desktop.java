@@ -13,6 +13,10 @@ public class Desktop {
 System.out.println("software");
 
 	}
+	private void softwareversion() {
+		System.out.println("windows 10");
+
+	}
 	
 public static void main(String[] args) {
 	
@@ -20,6 +24,7 @@ public static void main(String[] args) {
 	result.desktopMode1();
 	result.hardwareResources();
 	result.softwareResources();
+	result.softwareversion();
 
 }
 	
